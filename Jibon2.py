@@ -56,8 +56,8 @@ logo = """
 ░╚════╝░╚═╝╚═════╝░░╚════╝░╚═╝░░╚══╝
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mJIBON+PONIR
-\033[1;96mSPAMMING TEAM \033[1;93m: \033[1;92mCYBER GANG
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAJIJUL HASAN JIBON
+\033[1;96mFACEBOOK \033[1;93m: \033[1;92mAjijul Hasan Jibon
+\033[1;96mSPAMMING TEAM  \033[1;93m: \033[1;92mCYBER GANG
 \033[1;96mCeo- \033[1;93m: \033[1;92mARIYAN ABIR(FATIN)
 \033[1;91m======================================="""
 
