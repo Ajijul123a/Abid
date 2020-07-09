@@ -47,19 +47,18 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = """ _______  ______  _________ ______  
-(  ___  )(  ___ \ \__   __/(  __  \ 
-| (   ) || (   ) )   ) (   | (  \  )
-| (___) || (__/ /    | |   | |   ) |
-|  ___  ||  __ (     | |   | |   | |
-| (   ) || (  \ \    | |   | |   ) |
-| )   ( || )___) )___) (___| (__/  )
-|/     \||/ \___/ \_______/(______/ 
+logo = """ 
+░░░░░██╗██╗██████╗░░█████╗░███╗░░██╗
+░░░░░██║██║██╔══██╗██╔══██╗████╗░██║
+░░░░░██║██║██████╦╝██║░░██║██╔██╗██║
+██╗░░██║██║██╔══██╗██║░░██║██║╚████║
+╚█████╔╝██║██████╦╝╚█████╔╝██║░╚███║
+░╚════╝░╚═╝╚═════╝░░╚════╝░╚═╝░░╚══╝
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mAb.id6644
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Abid6t
+\033[1;96mAuthor  \033[1;93m: \033[1;92mJIBON+PONIR
+\033[1;96mSPAMMING TEAM \033[1;93m: \033[1;92mCYBER GANG
+\033[1;96mFacebook  \033[1;93m: \033[1;92mAJIJUL HASAN JIBON
+\033[1;96mCeo- \033[1;93m: \033[1;92mARIYAN ABIR(FATIN)
 \033[1;91m======================================="""
 
 def tik():
@@ -80,15 +79,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mAb.id6644
-\033[1;96mFacebook  \033[1;93m: \033[1;92mAbid Khan
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Abid6t
+\033[1;96mAuthor  \033[1;93m: \033[1;92mAJIJUL HASAN JIBON(S)
+\033[1;96mLOVER AT \033[1;93m: \033[1;92mCYBER GANG
+\033[1;96mKolixa  \033[1;93m: \033[1;92mCYBER GANG's All
+\033[1;96mWE MAKE SYSTEM MAKER \033[1;93m: \033[1;92mWeAreCYBER GANG 
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "Abid6t"
-CorrectPassword = "Abid"
+CorrectUsername = "Jibon"
+CorrectPassword = "Ponir"
 
 loop = 'true'
 while (loop == 'true'):
@@ -100,10 +99,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.Facebook.com/Omi6t')
+            os.system('xdg-open https://www.facebook.com/AjijulHasanJibonOfficial1')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.Facebook.com/Omi6t')
+        os.system('xdg-open https://www.facebook.com/AjijulHasanJibonOfficial1')
 
 def login():
 	os.system('clear')
